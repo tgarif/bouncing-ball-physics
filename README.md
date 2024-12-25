@@ -7,6 +7,8 @@ Realistic physics implementation of a bouncing ball.
 
 ![screenshot](./screenshot.png)
 
+Deployed to Github Pages here: https://tgarif.github.io/bouncing-ball-physics/
+
 ## Quick Start
 
 ```console
